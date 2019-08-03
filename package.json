@@ -1,0 +1,20 @@
+{
+  "name": "play-with-node-red",
+  "version": "1.0.0",
+  "description": "https://nodered.org/docs/user-guide/",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node-red -p 8080 -u /sandbox/dot-node-red"
+  },
+  "dependencies": {
+    "node-red": "1.0.0-beta.2"
+  },
+  "devDependencies": {
+    "nodemon": "1.18.4"
+  },
+  "keywords": [
+    "node-red",
+    "play",
+    "flows"
+  ]
+}
