@@ -482,10 +482,13 @@
     }
    },
    "menu-menu-item-sidebar": false,
-   "menu-menu-item-palette": false
+   "menu-menu-item-palette": false,
+   "git": {
+    "user": {
+     "name": "kent1026",
+     "email": "kent1026@gmail.com"
+    }
+   }
   }
- },
- "projects": {
-  "projects": {}
  }
 }
